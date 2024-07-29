@@ -480,6 +480,7 @@ header .navbar ul li a:hover {
 }
 .skills .container .row {
   display: flex;
+  align-items: center;
   grid-template-columns: repeat(6, 1fr);
   flex-wrap: wrap;
   gap: 1.8rem;
