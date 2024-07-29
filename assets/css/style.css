@@ -479,7 +479,7 @@ header .navbar ul li a:hover {
   margin-top: 2rem;
 }
 .skills .container .row {
-  display: grid;
+  display: flex;
   grid-template-columns: repeat(6, 1fr);
   flex-wrap: wrap;
   gap: 1.8rem;
